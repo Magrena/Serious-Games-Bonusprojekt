@@ -1,0 +1,140 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 32530 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/TUD/serious games/practice/SGV_Pro (1)/SGV_Pro
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65173
+Successfully changed project path to: D:/TUD/serious games/practice/SGV_Pro (1)/SGV_Pro
+D:/TUD/serious games/practice/SGV_Pro (1)/SGV_Pro
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/TUD/serious games/practice/SGV_Pro (1)/SGV_Pro/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x24dd)
+    Vendor:   
+    VRAM:     8044 MB
+    Driver:   27.21.14.6166
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56256
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001774 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000894 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.860 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2477 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.6 MB.
+System memory in use after: 113.1 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 2884.
+Total: 2.954100 ms (FindLiveObjects: 0.281400 ms CreateObjectMapping: 0.141200 ms MarkObjects: 1.459600 ms  DeleteObjects: 1.070900 ms)
+
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.textmeshpro
+  artifactKey: Guid(cabaa672b0e3ee91fa7b6da4daab7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro using Guid(cabaa672b0e3ee91fa7b6da4daab7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ac3edfb4be6f9e0d87c5c1aac23a96') in 0.008603 seconds
+  Import took 0.011849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.333292 seconds.
+  path: Assets/Course Library/Sound
+  artifactKey: Guid(513b96db72f004342809c688e465e064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Sound using Guid(513b96db72f004342809c688e465e064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e983830304b4ed980336e61b86f075') in 0.008711 seconds
+  Import took 0.011943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.146210 seconds.
+  path: Assets/Course Library/Sound/Music
+  artifactKey: Guid(9b599293d4a1c4357b8f13f7c2d8bcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Sound/Music using Guid(9b599293d4a1c4357b8f13f7c2d8bcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f888b6399e2dbd9249fbdee121615748') in 0.006164 seconds
+  Import took 0.009846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055600 seconds.
+  path: Assets/Course Library/Sound/Music/cron_audio_8-bit_modern01.ogg
+  artifactKey: Guid(834bc99524a174a378e982623582c06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Sound/Music/cron_audio_8-bit_modern01.ogg using Guid(834bc99524a174a378e982623582c06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2cac90f616fbc37315436f18fc8138f') in 0.139312 seconds
+  Import took 0.142639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Course Library/Sound/Music/cron_audio_8-bit_modern03.ogg
+  artifactKey: Guid(d70999ba737574c808b1d37cbdca0c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Sound/Music/cron_audio_8-bit_modern03.ogg using Guid(d70999ba737574c808b1d37cbdca0c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb89e288cfb3f60bc71e93c82c40e73a') in 0.012885 seconds
+  Import took 0.015965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Course Library/Sound/Music/cron_audio_8-bit_modern02.ogg
+  artifactKey: Guid(606910ec401804eb09925f0d57909c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Sound/Music/cron_audio_8-bit_modern02.ogg using Guid(606910ec401804eb09925f0d57909c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8cc07742030bbce821c0126c0ceec38') in 0.019386 seconds
+  Import took 0.022750 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000749 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.2 MB.
+System memory in use after: 111.7 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2896.
+Total: 2.962500 ms (FindLiveObjects: 0.248500 ms CreateObjectMapping: 0.113300 ms MarkObjects: 1.479700 ms  DeleteObjects: 1.119800 ms)
+
